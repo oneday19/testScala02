@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="sparkDev">
+    <CLASSES>
+      <root url="file://D:/springMiniJar/sparkDev" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://D:/springMiniJar/sparkDev" recursive="false" />
+  </library>
+</component>
